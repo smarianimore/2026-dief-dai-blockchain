@@ -2,8 +2,8 @@
 
 Slides of seminar "The Blockchain from a DS / DAI perspective" given by Stefano Mariani for the course of Distributed Artificial Intelligence 2026/2027 held by Prof. Franco Zambonelli at the University of Modena and Reggio Emilia (master degree in Computer Science Engineering)
 
- * Interactive presentation: [here](TBD)
- * PDF version: [there](TBD)
+ * Interactive presentation: [here](https://smarianimore.github.io/2026-dief-dai-blockchain/)
+ * PDF version: [there](https://smarianimore.github.io/2026-dief-dai-blockchain/?print-pdf)
  
 Recordings:
  * TBD
